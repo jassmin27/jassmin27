@@ -1,6 +1,7 @@
 # Hi, I'm Jasmine 👋
 
-I’m a Frontend Engineer based in Dublin, focused on building responsive, accessible and maintainable web applications with React, TypeScript and JavaScript.  
+I’m a Frontend Engineer based in Dublin, focused on building responsive, accessible and maintainable web applications with React, TypeScript and JavaScript.
+
 I have 4+ years of professional software engineering experience, including 2+ years focused on modern JavaScript frontend development. I enjoy building reusable UI components, API-driven interfaces and well-tested user experiences.
 
 ## Featured Projects
