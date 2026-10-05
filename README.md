@@ -33,7 +33,7 @@ A responsive notes SPA built with React and Supabase, featuring CRUD operations,
 - Supabase data persistence
 - Tested user flows with Vitest and React Testing Library
 - Accessible keyboard and screen-reader support
-- Responsive and accessible UI
+- Responsive UI
 
 [Live Demo](https://react-notes-board.vercel.app/) · [GitHub](https://github.com/jassmin27/react-notes-board)
 
@@ -41,6 +41,6 @@ A responsive notes SPA built with React and Supabase, featuring CRUD operations,
 
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite
 **State & Data:** TanStack Query, Zustand, REST APIs, Supabase
-**Testing:** Vitest, React Testing Library  
+**Testing:** Vitest, React Testing Library
 **Practices & Tools:** Accessibility, Responsive Design, Git, Browser DevTools, CI/CD
 
